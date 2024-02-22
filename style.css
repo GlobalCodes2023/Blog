@@ -1,0 +1,29 @@
+
+body {
+    background-color: #28289c;
+    color: white;
+}
+.div-header {
+    text-align: center;
+}
+.div-caja-menu {
+    display: flex;
+    width: 100%;
+}
+.nav-menu-principal {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+.nav-img-principal {
+    width: 50%;
+}
+.img-personaje {
+    width: 50%;
+    padding-left: 50%;
+}
+.div-menu a {
+    color: white;
+}
